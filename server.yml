@@ -9,3 +9,5 @@ eureka:
 #    hostname: serverName
 server:
   port: 8082
+env:
+  dev
